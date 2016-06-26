@@ -2,7 +2,7 @@
 Prototype programs
 
 
-https://github.com/matavaca/matavaca.github.io
+https://github.com/jcortes01/jcortes01.github.io
 ====================
 
 ## Hello world!
@@ -10,5 +10,5 @@ https://github.com/matavaca/matavaca.github.io
 This is my first try at github!
 
 My Github user page is at: 
-https://github.com/matavaca
+https://github.com/jcortes01
 
