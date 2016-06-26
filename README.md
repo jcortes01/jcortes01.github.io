@@ -2,7 +2,7 @@
 Prototype programs
 
 
-https://github.com/matavaca/linux-projects.github.io.git
+https://github.com/matavaca/matavaca.github.io.git
 ====================
 
 ## Hello world!
